@@ -18,9 +18,10 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ## 📊 Estatísticas Dinâmicas
 
-| | |
-| :--- | :--- |
-| ![Shega-PT GitHub stats](https://github-readme-stats.vercel.app/api?username=Shega-PT&show_icons=true&count_private=true&theme=nord) | ![Distribuição de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Shega-PT&layout=compact&hide=html,css,javascript,jupyter%20notebook&theme=nord&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shega-PT&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shega-PT&layout=compact&hide=html,css,javascript,jupyter%20notebook&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
@@ -107,4 +108,4 @@ Para questões ou colaborações específicas, utilize as issues dos repositóri
 
 📧 E-mail: shega.pt@gmail.com
 
-https://komarev.com/ghpvc/?username=Shega-PT&color=blue&style=flat-square
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shega-PT&color=blue&style=flat-square" alt="Profile Views" /> </p> 
