@@ -11,8 +11,8 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 | Projeto | Domínio | Stack Principal | Status |
 | :--- | :--- | :--- | :--- |
 | **Aerus** ([público](https://github.com/Shega-PT/Aerus)) | **UAS (Asa Fixa)** | `C++`, `Rust`, `STM32`, `ESP32` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
-| **AgriCerebro v0.2** ([privado]) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
-| **BeaconFly UAS** ([privado]) | **UAS (Sistema Completo)** | `C++`, `Python`, `ESP32`, `LoRa` | ![Status](https://img.shields.io/badge/Status-Firmware%20Concluído-brightgreen?style=flat-square) |
+| **AgriCerebro v0.2** (privado) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
+| **BeaconFly UAS** (privado) | **UAS (Sistema Completo)** | `C++`, `Python`, `ESP32`, `LoRa` | ![Status](https://img.shields.io/badge/Status-Firmware%20Concluído-brightgreen?style=flat-square) |
 
 ---
 
@@ -108,4 +108,4 @@ Para questões ou colaborações específicas, utilize as issues dos repositóri
 
 📧 E-mail: shega.pt@gmail.com
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shega-PT&color=blue&style=flat-square" alt="Profile Views" /> </p> 
+<p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShega-PT&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Profile Views" /> </p> 
