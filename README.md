@@ -26,8 +26,8 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ## 🔄 Atividade Recente
 
-<!-- Atualizado automaticamente via GitHub Actions -->
-![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Shega-PT&theme=nord&hide_border=true&area=true&custom_title=Atividade%20nos%20Últimos%2030%20Dias)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
