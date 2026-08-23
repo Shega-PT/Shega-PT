@@ -31,8 +31,12 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 ## 📊 Estatísticas Dinâmicas
 
 <div align="center">
-  <img src="https://github-readme-stats.rawgit.com/api?username=Shega-PT&show_icons=true&theme=nord&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.rawgit.com/api/top-langs/?username=Shega-PT&layout=compact&theme=nord&count_private=true" width="48%" />
+  <a href="https://github.com/Shega-PT">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shega-PT&show_icons=true&theme=nord&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Shega-PT">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shega-PT&layout=compact&theme=nord&hide_border=true&count_private=true" width="49%" alt="Top Languages" />
+  </a>
 </div>
 
 ---
