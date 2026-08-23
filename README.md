@@ -31,6 +31,14 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 ## 🔄 Atividade Recente
 
 <!-- ========================================== -->
+<!-- 🛠️ ÚLTIMO PROJETO TRABALHADO               -->
+<!-- ========================================== -->
+### 🛠️ Último Projeto Trabalhado
+
+<!-- START_SECTION:last_project -->
+<!-- END_SECTION:last_project -->
+
+<!-- ========================================== -->
 <!-- 📊 ESTATÍSTICAS & MÉTRICAS DE ENGENHARIA   -->
 <!-- ========================================== -->
 ### 📊 Estatísticas & Métricas de Engenharia
