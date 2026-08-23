@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Update Profile README
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -17,7 +20,7 @@ jobs:
       - name: Update README with Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
           BASE_BRANCH: main
