@@ -2,25 +2,37 @@
 
 `C++` • `Rust` • `Python` • `Embedded Systems` • `Precision Agriculture` • `Autonomous Vehicles`
 
-Engenheiro de software embarcado com foco em sistemas críticos, autonomia e instrumentação. Atuação em múltiplos projetos paralelos nas áreas de agricultura de precisão, veículos autônomos (UAV/USV) e aviônica. Abordagem orientada a hardware, baixo nível e eficiência energética.
+Engenheiro de software embarcado com foco em sistemas críticos, autonomia e instrumentação. Atuação em múltiplos projetos paralelos nas áreas de agricultura de precisão, veículos autônomos (UAV/USV), robótica aérea e aviônica. Abordagem orientada a hardware, baixo nível e eficiência energética.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque (UAS, Imagem & Geoespacial)
 
 | Projeto | Domínio | Stack Principal | Status |
 | :--- | :--- | :--- | :--- |
-| **Aerus** ([público](https://github.com/Shega-PT/Aerus)) | **UAS (Asa Fixa)** | `C++`, `Rust`, `STM32`, `ESP32` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
-| **AgriCerebro v0.2** (privado) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
+| **AstroFrame-Py** ([público](https://github.com/Shega-PT/AstroFrame-Py)) | **Astrofotografia & Imagem** | `Python`, `OpenCV`, `NumPy` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
+| **AERUS** ([público](https://github.com/Shega-PT/AERUS)) | **UAS (Asa Fixa) & Atmosfera** | `C++`, `Rust`, `STM32`, `ESP32` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
+| **TELLUS** ([público](https://github.com/Shega-PT/TELLUS)) | **Dados Geoespaciais & Solo** | `Python`, `GIS`, `IoT` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
+| **PilotOne** ([público](https://github.com/Shega-PT/PilotOne)) | **Assistência & Controlo UAS** | `C++`, `Python`, `MAVLink` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
 | **BeaconFly UAS** (privado) | **UAS (Sistema Completo)** | `C++`, `Python`, `ESP32`, `LoRa` | ![Status](https://img.shields.io/badge/Status-Firmware%20Concluído-brightgreen?style=flat-square) |
+
+---
+
+## 🧠 Arquiteturas Cognitivas & R&D (Privado)
+
+| Projeto | Domínio | Stack Principal | Status |
+| :--- | :--- | :--- | :--- |
+| **AgriCerebro v0.2** (privado) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
+
+> **AgriCerebro v0.2:** Plataforma cognitiva neuroinspirada *local-first* para agricultura de precisão. Mapeamento neurobiológico de dados (lobos occipital, parietal, insular e límbico) para tomada de decisão local offline com LLMs (Ollama) e FAISS.
 
 ---
 
 ## 📊 Estatísticas Dinâmicas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shega-PT&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shega-PT&layout=compact&hide=html,css,javascript,jupyter%20notebook&theme=nord&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shega-PT&show_icons=true&count_private=true&include_all_commits=true&theme=nord" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shega-PT&layout=compact&theme=nord&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -67,9 +79,11 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 | Protocolos       : CAN, SPI, I2C, UART, LoRa, MAVLink, TLV            |
 | OS / Ambiente    : Linux, Bare-metal, FreeRTOS, CMake                 |
 +-----------------------------------------------------------------------+
-| AgriCerebro      : Fusão sensorial, LLM para agricultura              |
+| AstroFrame-Py    : Calibração & stacking de fotogramas astronómicos   |
+| AERUS / TELLUS   : Telemetria distribuída & dados geoespaciais        |
+| PilotOne         : Interface de controlo e assistência ao piloto UAS  |
 | BeaconFly UAS    : Controlo de voo 100Hz, Failsafe 5 níveis           |
-| Aerus            : Sistema de controlo distribuído para asa fixa      |
+| AgriCerebro      : Fusão sensorial, LLM local para agricultura        |
 +-----------------------------------------------------------------------+
 ```
 
@@ -77,15 +91,14 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ## 📚 Referências Técnicas
 
-Neurociência & Cognição:
+### Neurociência & Cognição:
 
 - Kandel, E. et al. Princípios de Neurociências (5ª ed.). McGraw-Hill.
 
-Guias de Campo (Botânica e Micologia):
+### Guias de Campo (Botânica e Micologia):
 
 - Felix, J., Toman, J. & Hisek, K. Guide du promeneur dans la Nature.
-- Maquet, L. À la montagne.
-- Guéry, J-L. Trésors cachés du littoral.
+- Maquet, L. À la montagne.Guéry, J-L. Trésors cachés du littoral.
 - Nathan, F. Un guide Nathan/Nature Champignons.
 - Bory, G. & Philippon, H. Guide des Champignons.
 - Lamaison, J-L. Le livre des Champignons.
@@ -94,11 +107,14 @@ Guias de Campo (Botânica e Micologia):
 
 ## 🗺️ Roadmap dos Projetos
 
-| Projeto	      | Objetivo Imediato	                                      | Status                                                                |
-| ------------- | ------------------------------------------------------- | --------------------------------------------------------------------- |
-| Aerus	        | Concluir integração do sistema de controlo distribuído	| https://img.shields.io/badge/Progresso-70%2525-blue?style=flat-square |
-| AgriCerebro	  | Implementar módulo de visão computacional para drones	  | https://img.shields.io/badge/Progresso-40%2525-blue?style=flat-square |
-| BeaconFly UAS	| Desenvolver Ground Station (Python/Web)	                | https://img.shields.io/badge/Progresso-60%2525-blue?style=flat-square |
+| Projeto | Objetivo Imediato / Fase Atual | Status |
+| :--- | :--- | :--- |
+| **AstroFrame-Py** | Desenvolvimento avançado da versão v1.0 | ![Desenvolvimento Avançado](https://img.shields.io/badge/Status-Dev%20Avan%C3%A7ado-blue?style=flat-square) |
+| **AERUS** | Elaboração da documentação técnica e arquitetura | ![Documentação](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o-yellow?style=flat-square) |
+| **TELLUS** | Validação do conceito e definição de arquitetura | ![Ideia](https://img.shields.io/badge/Status-Ideia-lightgrey?style=flat-square) |
+| **PilotOne** | Implementação dos módulos base e telemetria | ![Fase Inicial](https://img.shields.io/badge/Status-Fase%20Inicial-orange?style=flat-square) |
+| **BeaconFly UAS** | Código concluído; testes de integração pendentes | ![Finalizado (Não Pronto)](https://img.shields.io/badge/Status-Finalizado%20(Não%20Pronto)-brightgreen?style=flat-square) |
+| **AgriCerebro v0.2** | Desenvolvimento suspenso em espera indefinida | ![Pausa Indefinida](https://img.shields.io/badge/Status-Pausa%20Indefinida-red?style=flat-square) |
 
 ---
 
@@ -106,6 +122,4 @@ Guias de Campo (Botânica e Micologia):
 
 Para questões ou colaborações específicas, utilize as issues dos repositórios públicos ou entre em contacto diretamente:
 
-📧 E-mail: shega.pt@gmail.com
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shega-PT&color=blue&style=flat-square" alt="Profile Views" /> </p>
+**📧 E-mail:** shega.pt@gmail.com
