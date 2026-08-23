@@ -30,16 +30,32 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ## 📊 Estatísticas Dinâmicas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shega-PT&show_icons=true&theme=nord&count_private=true&include_all_commits=true)](https://github.com/Shega-PT)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shega-PT&layout=compact&theme=nord&count_private=true)](https://github.com/Shega-PT)
+<div align="center">
+  <img src="https://github-readme-stats.rawgit.com/api?username=Shega-PT&show_icons=true&theme=nord&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.rawgit.com/api/top-langs/?username=Shega-PT&layout=compact&theme=nord&count_private=true" width="48%" />
+</div>
 
 ---
 
 ## 🔄 Atividade Recente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🔄 Commits & Pushes
+
+<div align="center">
+
+  <!-- Opção A: Gráfico Dinâmico de Atividade/Pushes -->
+  <a href="https://github.com/Shega-PT">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shega-PT&theme=nord&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Opção B: Sequência de Commits (Streak) -->
+  <a href="https://github.com/Shega-PT">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shega-PT&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="80%" />
+  </a>
+
+</div>
 
 ---
 
