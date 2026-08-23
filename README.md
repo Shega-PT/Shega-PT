@@ -37,10 +37,10 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [cantools](https://github.com/Shega-PT/cantools)
-* **Linguagem:** `N/A` | **Data:** 2026-08-21
-* **Último Commit:** `Merge pull request #822 from andlaus/dbc_cleanup_part9`
-> **Descrição:** CAN bus tools.
+### 🛠️ Último Projeto Ativo: [Shega-PT](https://github.com/Shega-PT/Shega-PT)
+* **Linguagem:** `N/A` | **Data:** 2026-08-23
+* **Último Commit:** `docs: update last active project section`
+> **Descrição:** Sem descrição definida.
 
 <!-- END_SECTION:last_project -->
 
