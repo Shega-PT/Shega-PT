@@ -43,16 +43,16 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 <div align="center">
 
-  <!-- Opção A: Gráfico Dinâmico de Atividade/Pushes -->
+  <!-- Gráfico Dinâmico de Atividade/Pushes -->
   <a href="https://github.com/Shega-PT">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shega-PT&theme=nord&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- Opção B: Sequência de Commits (Streak) -->
+  <!-- Sequência de Commits (Streak) - Servidor Vercel Estável -->
   <a href="https://github.com/Shega-PT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shega-PT&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="80%" />
+    <img src="https://streak-stats.demolab.com/?user=Shega-PT&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="80%" />
   </a>
 
 </div>
