@@ -44,8 +44,8 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 <br/>
 
 <div align="center">
-  <!-- Linha 2: Padrão de Produtividade por Horário -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time-line?username=Shega-PT&theme=nord" width="100%" alt="Linha do Tempo de Commits por Horário" />
+  <!-- Linha 2: Padrão de Produtividade por Horário (Rota Corrigida) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shega-PT&theme=nord&utcOffset=0" width="100%" alt="Padrão de Produtividade por Horário" />
 </div>
 
 <br/>
