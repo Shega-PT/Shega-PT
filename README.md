@@ -37,10 +37,10 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
+### 🛠️ Último Projeto Ativo: [AERUS](https://github.com/Shega-PT/AERUS)
 * **Linguagem:** `N/A` | **Data:** 2026-08-23
-* **Último Commit:** `docs: update last active project section`
-> **Descrição:** Sem descrição definida.
+* **Último Commit:** `	new file:   docs/CHANGELOG.md`
+> **Descrição:** O Aerus é um Sistema Autónomo de Controlo de Voo Distribuído para aeronaves não tripuladas de asa fixa, concebido para proporcionar elevados níveis de precisão, segurança, modularidade e configurabilidade, permitindo a sua adaptação a diferentes aeronaves e aos respetivos domínios de aplicação sem alterar a arquitetura fundamental do sistema.
 
 <!-- END_SECTION:last_project -->
 
