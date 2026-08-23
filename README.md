@@ -43,22 +43,43 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ## 🔄 Atividade Recente
 
-### 🔄 Commits & Pushes
+<!-- ========================================== -->
+<!-- 📊 ESTATÍSTICAS & MÉTRICAS DE ENGENHARIA   -->
+<!-- ========================================== -->
+### 📊 Estatísticas & Métricas de Engenharia
 
 <div align="center">
+  <!-- Linha 1: Visão Geral de Commits & Linguagens Principais -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shega-PT&theme=nord" width="49%" alt="Estatísticas Gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shega-PT&theme=nord" width="49%" alt="Linguagens mais Utilizadas" />
+</div>
 
-  <!-- Gráfico Dinâmico de Atividade/Pushes -->
+<br/>
+
+<div align="center">
+  <!-- Linha 2: Padrão de Produtividade por Horário -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-time-line?username=Shega-PT&theme=nord" width="100%" alt="Linha do Tempo de Commits por Horário" />
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- 🔄 ATIVIDADE DE COMMITS & STREAK           -->
+<!-- ========================================== -->
+### 🔄 Atividade em Tempo Real & Streak
+
+<div align="center">
+  <!-- Gráfico de Atividade de Commits -->
   <a href="https://github.com/Shega-PT">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shega-PT&theme=nord&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
   </a>
 
   <br/><br/>
 
-  <!-- Sequência de Commits (Streak) - Servidor Vercel Estável -->
+  <!-- Sequência de Commits (Streak Vercel) -->
   <a href="https://github.com/Shega-PT">
     <img src="https://streak-stats.demolab.com/?user=Shega-PT&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="80%" />
   </a>
-
 </div>
 
 ---
