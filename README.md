@@ -28,19 +28,6 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ---
 
-## 📊 Estatísticas Dinâmicas
-
-<div align="center">
-  <a href="https://github.com/Shega-PT">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shega-PT&theme=nord" width="49%" alt="Estatísticas Gerais" />
-  </a>
-  <a href="https://github.com/Shega-PT">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shega-PT&theme=nord" width="49%" alt="Linguagens com Mais Commits" />
-  </a>
-</div>
-
----
-
 ## 🔄 Atividade Recente
 
 <!-- ========================================== -->
