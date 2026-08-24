@@ -37,7 +37,7 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [PilotOne](https://github.com/Shega-PT/PilotOne)
+### 🛠️ Último Projeto Ativo: [PilotOne](https://github.com/Shega-PT/PilotOne)
 * **Linguagem:** `C` | **Data:** 2026-08-24
 * **Último Commit:** `Add unit tests for mathematical functions in various domains`
 > **Descrição:** O PilotOne é um sistema de controlo de voo concebido para ser uma solução de entrada de gama, focado em eficiência, simplicidade e fiabilidade. Destina-se a aplicações onde os recursos são limitados, mas a segurança e o desempenho não podem ser comprometidos.
