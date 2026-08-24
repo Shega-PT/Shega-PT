@@ -13,7 +13,7 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 | **AstroFrame-Py** ([público](https://github.com/Shega-PT/AstroFrame-Py)) | **Astrofotografia & Imagem** | `Python`, `OpenCV`, `NumPy` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
 | **AERUS** ([público](https://github.com/Shega-PT/AERUS)) | **UAS (Asa Fixa) & Atmosfera** | `C++`, `Rust`, `STM32`, `ESP32` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
 | **TELLUS** ([público](https://github.com/Shega-PT/TELLUS)) | **Dados Geoespaciais & Solo** | `Python`, `GIS`, `IoT` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
-| **PilotOne** ([público](https://github.com/Shega-PT/PilotOne)) | **Assistência & Controlo UAS** | `C++`, `Python`, `MAVLink` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
+| **PilotOne** ([público](https://github.com/Shega-PT/PilotOne)) | **Assistência & Controlo UAS** | `C`, `C++`, `Python`, `MAVLink` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
 | **BeaconFly UAS** (privado) | **UAS (Sistema Completo)** | `C++`, `Python`, `ESP32`, `LoRa` | ![Status](https://img.shields.io/badge/Status-Firmware%20Concluído-brightgreen?style=flat-square) |
 
 ---
