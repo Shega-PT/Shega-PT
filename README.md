@@ -37,8 +37,8 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
-* **Linguagem:** `N/A` | **Data:** 2026-08-24
+### 🛠️ Último Projeto Ativo: [Shega-PT](https://github.com/Shega-PT/Shega-PT)
+* **Linguagem:** `N/A` | **Data:** 2026-08-25
 * **Último Commit:** `docs: update last active project section`
 > **Descrição:** Sem descrição definida.
 
