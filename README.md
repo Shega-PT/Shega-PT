@@ -2,11 +2,23 @@
 
 `C++` • `Rust` • `Python` • `Embedded Systems` • `Precision Agriculture` • `Autonomous Vehicles`
 
-Engenheiro de software embarcado com foco em sistemas críticos, autonomia e instrumentação. Atuação em múltiplos projetos paralelos nas áreas de agricultura de precisão, veículos autônomos (UAV/USV), robótica aérea e aviônica. Abordagem orientada a hardware, baixo nível e eficiência energética.
+> Engenheiro de software embarcado com foco em **sistemas críticos, autonomia e instrumentação**. Atuação em múltiplos projetos paralelos nas áreas de **agricultura de precisão, veículos autônomos (UAV/USV), robótica aérea e aviônica**. Abordagem orientada a **hardware, baixo nível e eficiência energética**.
 
 ---
 
-## 🚀 Projetos em Destaque (UAS, Imagem & Geoespacial)
+## 🧭 Áreas de Atuação
+
+<div align="center">
+
+`Embedded Software`  •  `Critical Systems`  •  `UAS / USV`  •  `Autonomy`  •  `Avionics`  •  `Precision Agriculture`  •  `Instrumentation`
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### UAS, Imagem & Geoespacial
 
 | Projeto | Domínio | Stack Principal | Status |
 | :--- | :--- | :--- | :--- |
@@ -18,94 +30,122 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ---
 
-## 🧠 Arquiteturas Cognitivas & R&D (Privado)
+## 🧠 Arquiteturas Cognitivas & R&D
 
 | Projeto | Domínio | Stack Principal | Status |
 | :--- | :--- | :--- | :--- |
 | **AgriCerebro v0.2** (privado) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
 
-> **AgriCerebro v0.2:** Plataforma cognitiva neuroinspirada *local-first* para agricultura de precisão. Mapeamento neurobiológico de dados (lobos occipital, parietal, insular e límbico) para tomada de decisão local offline com LLMs (Ollama) e FAISS.
+> **AgriCerebro v0.2:** Plataforma cognitiva neuroinspirada *local-first* para agricultura de precisão. Mapeamento neurobiológico de dados (lobos occipital, parietal, insular e límbico) para tomada de decisão local offline com LLMs e FAISS.
 
 ---
 
 ## 🔄 Atividade Recente
 
 <!-- ========================================== -->
+
 <!-- 🛠️ ÚLTIMO PROJETO TRABALHADO               -->
+
 <!-- ========================================== -->
+
 ### 🛠️ Último Projeto Trabalhado
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
-* **Linguagem:** `N/A` | **Data:** 2026-08-27
-* **Último Commit:** `docs: update last active project section`
-> **Descrição:** Sem descrição definida.
+
 
 <!-- END_SECTION:last_project -->
 
 <!-- ========================================== -->
+
 <!-- 📊 ESTATÍSTICAS & MÉTRICAS DE ENGENHARIA   -->
+
 <!-- ========================================== -->
+
 ### 📊 Estatísticas & Métricas de Engenharia
 
 <div align="center">
+
   <!-- Linha 1: Visão Geral de Commits & Linguagens Principais -->
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shega-PT&theme=nord" width="49%" alt="Estatísticas Gerais" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shega-PT&theme=nord" width="49%" alt="Linguagens mais Utilizadas" />
+
 </div>
 
 <br/>
 
 <div align="center">
+
   <!-- Linha 2: Padrão de Produtividade por Horário (Rota Corrigida) -->
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shega-PT&theme=nord&utcOffset=0" width="100%" alt="Padrão de Produtividade por Horário" />
+
 </div>
 
 <br/>
 
 <!-- ========================================== -->
+
 <!-- 🔄 ATIVIDADE DE COMMITS & STREAK           -->
+
 <!-- ========================================== -->
+
 ### 🔄 Atividade em Tempo Real & Streak
 
 <div align="center">
+
   <!-- Gráfico de Atividade de Commits -->
+
   <a href="https://github.com/Shega-PT">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shega-PT&theme=nord&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Sequência de Commits (Streak Vercel) -->
+
   <a href="https://github.com/Shega-PT">
     <img src="https://streak-stats.demolab.com/?user=Shega-PT&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="80%" />
   </a>
+
 </div>
 
 ---
 
 ## 🛠️ Stack & Ferramentas
 
-**Linguagens**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Linguagens
 
-**Hardware & Plataformas**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Protocolos & Tecnologias**
-![LoRa](https://img.shields.io/badge/LoRa-0072B0?style=for-the-badge&logo=lora&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+### 🔩 Hardware & Plataformas
 
-**Ferramentas**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+
+`AVR` • `ARM Cortex-M` • `Bare-metal` • `FreeRTOS`
+
+### 📡 Protocolos & Tecnologias
+
+![LoRa](https://img.shields.io/badge/LoRa-0072B0?style=for-the-badge\&logo=lora\&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+
+`CAN` • `SPI` • `I2C` • `UART` • `MAVLink` • `TLV`
+
+### 🧠 Computação & Dados
+
+`OpenCV` • `NumPy` • `PyTorch` • `FAISS` • `SQLite` • `GIS` • `IoT` • `Ollama`
+
+### 🧰 Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
@@ -132,30 +172,66 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 ## 📚 Referências Técnicas
 
-### Neurociência & Cognição:
+> Uma seleção de livros, documentos técnicos e guias de campo relevantes para o percurso de aprendizagem e para as áreas técnicas relacionadas com os projetos desenvolvidos.
 
-- Kandel, E. et al. Princípios de Neurociências (5ª ed.). McGraw-Hill.
+### 💻 Python & Programação
 
-### Guias de Campo (Botânica e Micologia):
+#### 🧩 Fundamentos & Pensamento Computacional
 
-- Felix, J., Toman, J. & Hisek, K. Guide du promeneur dans la Nature.
-- Maquet, L. À la montagne.Guéry, J-L. Trésors cachés du littoral.
-- Nathan, F. Un guide Nathan/Nature Champignons.
-- Bory, G. & Philippon, H. Guide des Champignons.
-- Lamaison, J-L. Le livre des Champignons.
+* **Downey, Allen B.** — *Pense em Python — Pense como um Cientista da Computação*
+* **Matthes, Eric** — *Python Crash Course — A Hands-On, Project-Based Introduction to Programming*, 2ª edição
+
+#### ⚙️ Programação Aplicada & Automação
+
+* **Sweigart, Al** — *Automate the Boring Stuff with Python — Practical Programming for Total Beginners*
+* **Severance, Charles R.** — *Python para Todos — Explorando Dados com Python 3*
+
+#### 🐍 Python Avançado
+
+* **Ramalho, Luciano** — *Fluent Python — Clear, Concise, and Effective Programming*, 2ª edição
+
+---
+
+### ✈️ Aerodinâmica & Engenharia Aeronáutica
+
+* **Houghton, E. L. & Carpenter, P. W.** — *Aerodynamics for Engineering Students*, 5ª edição
+* **Schmitz, F. W.** — *AERODYNAMICS OF THE MODEL AIRPLANE. PART I. AIRFOIL MEASUREMENTS*
+
+---
+
+### 🚀 Propulsão & Engenharia Espacial
+
+* *Les propulseurs des clubs scientifiques spatiaux* Versão **1.7** — Março de 2020
+
+---
+
+### 🧠 Neurociência & Cognição
+
+* **Kandel, E. et al.** — *Princípios de Neurociências*, 5ª edição. McGraw-Hill.
+
+---
+
+### 🌿 Guias de Campo — Botânica & Micologia
+
+* **Felix, J., Toman, J. & Hisek, K.** — *Guide du promeneur dans la Nature*
+* **Maquet, L.** — *À la montagne*
+* **Guéry, J-L.** — *Trésors cachés du littoral*
+* **Nathan, F.** — *Un guide Nathan/Nature Champignons*
+* **Bory, G. & Philippon, H.** — *Guide des Champignons*
+* **Lamaison, J-L.** — *Le livre des Champignons*
 
 ---
 
 ## 🗺️ Roadmap dos Projetos
 
-| Projeto | Objetivo Imediato / Fase Atual | Status |
-| :--- | :--- | :--- |
-| **AstroFrame-Py** | Desenvolvimento avançado da versão v1.0 | ![Desenvolvimento Avançado](https://img.shields.io/badge/Status-Dev%20Avan%C3%A7ado-blue?style=flat-square) |
-| **AERUS** | Elaboração da documentação técnica e arquitetura | ![Documentação](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o-yellow?style=flat-square) |
-| **TELLUS** | Validação do conceito e definição de arquitetura | ![Ideia](https://img.shields.io/badge/Status-Ideia-lightgrey?style=flat-square) |
-| **PilotOne** | Implementação dos módulos base e telemetria | ![Fase Inicial](https://img.shields.io/badge/Status-Fase%20Inicial-orange?style=flat-square) |
-| **BeaconFly UAS** | Código concluído; testes de integração pendentes | ![Finalizado (Não Pronto)](https://img.shields.io/badge/Status-Finalizado%20(Não%20Pronto)-brightgreen?style=flat-square) |
-| **AgriCerebro v0.2** | Desenvolvimento suspenso em espera indefinida | ![Pausa Indefinida](https://img.shields.io/badge/Status-Pausa%20Indefinida-red?style=flat-square) |
+| Projeto              | Objetivo Imediato / Fase Atual                   | Status                                                                                                                      |
+| :------------------- | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| **AstroFrame-Py**    | Desenvolvimento avançado da versão v1.0          | ![Desenvolvimento Avançado](https://img.shields.io/badge/Status-Dev%20Avan%C3%A7ado-blue?style=flat-square)                 |
+| **AERUS**            | Elaboração da documentação técnica e arquitetura | ![Documentação](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o-yellow?style=flat-square)                        |
+| **TELLUS**           | Validação do conceito e definição de arquitetura | ![Ideia](https://img.shields.io/badge/Status-Ideia-lightgrey?style=flat-square)                                             |
+| **PilotOne**         | Implementação dos módulos base e telemetria      | ![Fase Inicial](https://img.shields.io/badge/Status-Fase%20Inicial-orange?style=flat-square)                                |
+| **BeaconFly UAS**    | Código concluído; testes de integração pendentes | ![Finalizado (Não Pronto)](https://img.shields.io/badge/Status-Finalizado%20\(Não%20Pronto\)-brightgreen?style=flat-square) |
+| **AgriCerebro v0.2** | Desenvolvimento suspenso em espera indefinida    | ![Pausa Indefinida](https://img.shields.io/badge/Status-Pausa%20Indefinida-red?style=flat-square)                           |
 
 ---
 
@@ -163,4 +239,12 @@ Engenheiro de software embarcado com foco em sistemas críticos, autonomia e ins
 
 Para questões ou colaborações específicas, utilize as issues dos repositórios públicos ou entre em contacto diretamente:
 
-**📧 E-mail:** shega.pt@gmail.com
+**📧 E-mail:** [shega.pt@gmail.com](mailto:shega.pt@gmail.com)
+
+---
+
+<div align="center">
+
+`Built with curiosity • Engineered with purpose • Driven by experimentation`
+
+</div>
