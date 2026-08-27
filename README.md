@@ -52,9 +52,9 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🛠️ Último Projeto Ativo: [VISOR](https://github.com/Shega-PT/VISOR)
-* **Linguagem:** `N/A` | **Data:** 2026-08-27
-* **Último Commit:** `Initial commit`
+### 🚀 [VISOR](https://github.com/Shega-PT/VISOR)
+* **Linguagem:** `Rust` | **Data:** 2026-08-27
+* **Último Commit:** `feat(crc16): add CRC-16/CCITT implementation in pure Rust`
 > **Descrição:** Video Imaging System for Onboard Recognition
 
 <!-- END_SECTION:last_project -->
