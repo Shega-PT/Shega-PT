@@ -51,6 +51,12 @@
 ### 🛠️ Último Projeto Trabalhado
 
 <!-- START_SECTION:last_project -->
+
+### 🛠️ Último Projeto Ativo: [VISOR](https://github.com/Shega-PT/VISOR)
+* **Linguagem:** `N/A` | **Data:** 2026-08-27
+* **Último Commit:** `Initial commit`
+> **Descrição:** Video Imaging System for Onboard Recognition
+
 <!-- END_SECTION:last_project -->
 
 <!-- ========================================== -->
