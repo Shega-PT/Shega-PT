@@ -51,9 +51,6 @@
 ### 🛠️ Último Projeto Trabalhado
 
 <!-- START_SECTION:last_project -->
-
-
-
 <!-- END_SECTION:last_project -->
 
 <!-- ========================================== -->
