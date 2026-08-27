@@ -239,7 +239,7 @@
 
 Para questões ou colaborações específicas, utilize as issues dos repositórios públicos ou entre em contacto diretamente:
 
-**📧 E-mail:** [shega.pt@gmail.com](mailto:shega.pt@gmail.com)
+**📧 E-mail:** [shegapt@gmail.com](mailto:shega.pt@gmail.com)
 
 ---
 
