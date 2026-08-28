@@ -52,10 +52,10 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
-* **Linguagem:** `N/A` | **Data:** 2026-08-28
-* **Último Commit:** `docs: update last active project section`
-> **Descrição:** Sem descrição definida.
+### 🛠️ Último Projeto Ativo: [VISOR](https://github.com/Shega-PT/VISOR)
+* **Linguagem:** `Rust` | **Data:** 2026-08-28
+* **Último Commit:** `fix: correct message parsing logic and improve buffer handling in view_video.py`
+> **Descrição:** Video Imaging System for Onboard Recognition
 
 <!-- END_SECTION:last_project -->
 
