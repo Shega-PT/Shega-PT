@@ -52,10 +52,10 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [VISOR](https://github.com/Shega-PT/VISOR)
-* **Linguagem:** `Rust` | **Data:** 2026-08-28
-* **Último Commit:** `fix: update library linkage to use private visibility and adjust partition configuration`
-> **Descrição:** Video Imaging System for Onboard Recognition
+### 🛠️ Último Projeto Ativo: [Shega-PT](https://github.com/Shega-PT/Shega-PT)
+* **Linguagem:** `N/A` | **Data:** 2026-08-28
+* **Último Commit:** `docs: update last active project section`
+> **Descrição:** Sem descrição definida.
 
 <!-- END_SECTION:last_project -->
 
