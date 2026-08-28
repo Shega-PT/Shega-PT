@@ -52,9 +52,9 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🛠️ Último Projeto Ativo: [VISOR](https://github.com/Shega-PT/VISOR)
+### 🚀 [VISOR](https://github.com/Shega-PT/VISOR)
 * **Linguagem:** `Rust` | **Data:** 2026-08-28
-* **Último Commit:** `fix: correct message parsing logic and improve buffer handling in view_video.py`
+* **Último Commit:** `fix: update library linkage to use private visibility and adjust partition configuration`
 > **Descrição:** Video Imaging System for Onboard Recognition
 
 <!-- END_SECTION:last_project -->
