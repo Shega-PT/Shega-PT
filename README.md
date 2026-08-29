@@ -52,9 +52,9 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🛠️ Último Projeto Ativo: [Bythos](https://github.com/Shega-PT/Bythos)
+### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
 * **Linguagem:** `N/A` | **Data:** 2026-08-29
-* **Último Commit:** `Initial commit`
+* **Último Commit:** `docs: update last active project section`
 > **Descrição:** Sem descrição definida.
 
 <!-- END_SECTION:last_project -->
