@@ -52,10 +52,10 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
-* **Linguagem:** `N/A` | **Data:** 2026-08-29
-* **Último Commit:** `docs: update last active project section`
-> **Descrição:** Sem descrição definida.
+### 🛠️ Último Projeto Ativo: [Bythos](https://github.com/Shega-PT/Bythos)
+* **Linguagem:** `C++` | **Data:** 2026-08-29
+* **Último Commit:** `Add files via upload`
+> **Descrição:** Bythos é um protocolo de comunicação genérico baseado em TLV (Type-Length-Value), concebido para sistemas embedded, veículos aéreos não tripulados (UAV/UAS) e redes CAN. Implementações independentes em Rust e C, com interoperabilidade via FFI.
 
 <!-- END_SECTION:last_project -->
 
