@@ -1,0 +1,87 @@
+- name: Fetch Last Active Repository Data
+  env:
+    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    USERNAME: Shega-PT
+  run: |
+    python3 -c "
+    import urllib.request, json, os
+    from datetime import datetime
+
+    username = os.environ['USERNAME']
+    token = os.environ['GH_TOKEN']
+
+    # Buscar todos os repositórios do utilizador
+    repos_url = f'https://api.github.com/users/{username}/repos?per_page=100'
+    req = urllib.request.Request(
+        repos_url,
+        headers={'Authorization': f'token {token}', 'User-Agent': 'Python'}
+    )
+    repos = json.loads(urllib.request.urlopen(req).read())
+
+    last_commit = None
+    last_repo = None
+
+    for repo in repos:
+        repo_name = repo['name']
+        repo_full_name = repo['full_name']
+
+        # Ignorar o repositório especial
+        if repo_full_name == f'{username}/{username}':
+            continue
+
+        # Buscar o último commit do repositório
+        commits_url = f'https://api.github.com/repos/{repo_full_name}/commits?per_page=1'
+        commit_req = urllib.request.Request(
+            commits_url,
+            headers={'Authorization': f'token {token}', 'User-Agent': 'Python'}
+        )
+        try:
+            commits = json.loads(urllib.request.urlopen(commit_req).read())
+            if not commits:
+                continue
+            commit = commits[0]
+            commit_date = commit['commit']['committer']['date']
+            commit_date_obj = datetime.strptime(commit_date, '%Y-%m-%dT%H:%M:%SZ')
+
+            # Atualizar se este commit for mais recente
+            if last_commit is None or commit_date_obj > last_commit['date']:
+                last_commit = {
+                    'date': commit_date_obj,
+                    'repo_name': repo_name,
+                    'repo_url': repo['html_url'],
+                    'language': repo.get('language', 'N/A'),
+                    'commit_msg': commit['commit']['message'].split('\n')[0],
+                    'commit_date': commit_date[:10],
+                    'description': repo.get('description', 'Sem descrição definida.')
+                }
+        except Exception as e:
+            print(f'Erro ao buscar commits para {repo_full_name}: {e}')
+            continue
+
+    if last_commit:
+        card_content = f'''
+        ### 🛠️ Último Projeto Ativo: [{last_commit["repo_name"]}]({last_commit["repo_url"]})
+        * **Linguagem:** \`{last_commit["language"]}\` | **Data:** {last_commit["commit_date"]}
+        * **Último Commit:** \`{last_commit["commit_msg"]}\`
+        > **Descrição:** {last_commit["description"]}
+        '''
+
+        with open('README.md', 'r', encoding='utf-8') as f:
+            readme = f.read()
+
+        start_tag = '<!-- START_SECTION:last_project -->'
+        end_tag = '<!-- END_SECTION:last_project -->'
+
+        if start_tag in readme and end_tag in readme:
+            new_readme = (
+                readme.split(start_tag)[0] +
+                start_tag + '\n' +
+                card_content + '\n' +
+                end_tag +
+                readme.split(end_tag)[1]
+            )
+            with open('README.md', 'w', encoding='utf-8') as f:
+                f.write(new_readme)
+    else:
+        print('Nenhum commit encontrado.')
+    "
