@@ -1,253 +1,301 @@
 # ⚙️ Shega-PT
 
-`C++` • `Rust` • `Python` • `Embedded Systems` • `Precision Agriculture` • `Autonomous Vehicles`
+`C++` • `Rust` • `Python` • `Embedded Systems` • `UAV/UAS` • `Avionics` • `Autonomous Vehicles`
 
-> Engenheiro de software embarcado com foco em **sistemas críticos, autonomia e instrumentação**. Atuação em múltiplos projetos paralelos nas áreas de **agricultura de precisão, veículos autônomos (UAV/USV), robótica aérea e aviônica**. Abordagem orientada a **hardware, baixo nível e eficiência energética**.
+> 🚀 **Engenheiro de software embarcado** com foco em **sistemas críticos, autonomia e instrumentação**.  
+> Atuação em **UAV/UAS, aviônica, robótica aérea e agricultura de precisão**, com abordagem *hardware-first*, baixo nível e eficiência energética.
 
 ---
 
 ## 🧭 Áreas de Atuação
 
-<div align="center">
 
-`Embedded Software`  •  `Critical Systems`  •  `UAS / USV`  •  `Autonomy`  •  `Avionics`  •  `Precision Agriculture`  •  `Instrumentation`
 
-</div>
+`Embedded Software` • `Critical Systems` • `UAS / USV` • `Avionics` • `Autonomy` • `Precision Agriculture` • `Instrumentation` • `Robotics`
 
----
 
-## 🚀 Projetos em Destaque
-
-### UAS, Imagem & Geoespacial
-
-| Projeto | Domínio | Stack Principal | Status |
-| :--- | :--- | :--- | :--- |
-| **AstroFrame-Py** ([público](https://github.com/Shega-PT/AstroFrame-Py)) | **Astrofotografia & Imagem** | `Python`, `OpenCV`, `NumPy` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
-| **AERUS** ([público](https://github.com/Shega-PT/AERUS)) | **UAS (Asa Fixa) & Atmosfera** | `C++`, `Rust`, `STM32`, `ESP32` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
-| **TELLUS** ([público](https://github.com/Shega-PT/TELLUS)) | **Dados Geoespaciais & Solo** | `Python`, `GIS`, `IoT` | ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) |
-| **PilotOne** ([público](https://github.com/Shega-PT/PilotOne)) | **Assistência & Controlo UAS** | `C`, `C++`, `Python`, `MAVLink` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
-| **BeaconFly UAS** (privado) | **UAS (Sistema Completo)** | `C++`, `Python`, `ESP32`, `LoRa` | ![Status](https://img.shields.io/badge/Status-Firmware%20Concluído-brightgreen?style=flat-square) |
 
 ---
 
-## 🧠 Arquiteturas Cognitivas & R&D
+## ✈️ **Projetos em Destaque**
 
-| Projeto | Domínio | Stack Principal | Status |
-| :--- | :--- | :--- | :--- |
-| **AgriCerebro v0.2** (privado) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | ![Status](https://img.shields.io/badge/Status-Beta-orange?style=flat-square) |
+### 🚀 **Sistemas Aéreos Não Tripulados (UAV/UAS) &amp; Aviónica**
 
-> **AgriCerebro v0.2:** Plataforma cognitiva neuroinspirada *local-first* para agricultura de precisão. Mapeamento neurobiológico de dados (lobos occipital, parietal, insular e límbico) para tomada de decisão local offline com LLMs e FAISS.
+*(Foco em controlo de voo, telemetria, autonomia e aviônica)*
+
+
+| **Projeto**                                          | **Domínio**                                    | **Stack Principal**              | **Status**         | **Stars** | **Forks** | **LOC**   |
+| ---------------------------------------------------- | ---------------------------------------------- | -------------------------------- | ------------------ | --------- | --------- | --------- |
+| [**AERUS**](https://github.com/Shega-PT/AERUS)       | **UAS (Asa Fixa) &amp; Atmosfera**             | `C++`, `Rust`, `STM32`, `ESP32`  | Em Desenvolvimento | Stars     | Forks     | LOC       |
+| [**PilotOne**](https://github.com/Shega-PT/PilotOne) | **Assistência &amp; Controlo UAS**             | `C`, `C++`, `Python`, `MAVLink`  | Beta               | Stars     | Forks     | LOC       |
+| [**Bythos**](https://github.com/Shega-PT/Bythos)     | **Protocolo de Comunicação para UAV/Embedded** | `Rust`, `C`, `FFI`, `CAN`        | Em Desenvolvimento | Stars     | Forks     | LOC       |
+| **BeaconFly UAS** (privado)                          | **UAS (Sistema Completo)**                     | `C++`, `Python`, `ESP32`, `LoRa` | Firmware Concluído | ⭐ Private | ⭐ Private | ⭐ Private |
+
 
 ---
 
-## 🔄 Atividade Recente
+### 🌍 **Geoespacial, Imagem &amp; Dados**
 
-<!-- ========================================== -->
+*(Foco em dados geoespaciais, processamento de imagem e sensoriamento)*
 
-<!-- 🛠️ ÚLTIMO PROJETO TRABALHADO               -->
 
-<!-- ========================================== -->
+| **Projeto**                                                    | **Domínio**                       | **Stack Principal**         | **Status**         | **Stars** | **Forks** | **LOC** |
+| -------------------------------------------------------------- | --------------------------------- | --------------------------- | ------------------ | --------- | --------- | ------- |
+| [**TELLUS**](https://github.com/Shega-PT/TELLUS)               | **Dados Geoespaciais &amp; Solo** | `Python`, `GIS`, `IoT`      | Em Desenvolvimento | Stars     | Forks     | LOC     |
+| [**AstroFrame-Py**](https://github.com/Shega-PT/AstroFrame-Py) | **Astrofotografia &amp; Imagem**  | `Python`, `OpenCV`, `NumPy` | Em Desenvolvimento | Stars     | Forks     | LOC     |
+
+
+---
+
+### 🧠 **Arquiteturas Cognitivas &amp; R&amp;D**
+
+*(Foco em IA, agricultura de precisão e sistemas cognitivos)*
+
+
+| **Projeto**                    | **Domínio**                 | **Stack Principal**                    | **Status** |
+| ------------------------------ | --------------------------- | -------------------------------------- | ---------- |
+| **AgriCerebro v0.2** (privado) | **Agricultura de Precisão** | `Python`, `PyTorch`, `FAISS`, `SQLite` | Beta       |
+
+
+> **📌 AgriCerebro v0.2:** Plataforma cognitiva neuroinspirada *local-first* para agricultura de precisão. Mapeamento neurobiológico de dados (lobos occipital, parietal, insular e límbico) para tomada de decisão local offline com LLMs e FAISS.
+
+---
+
+## 🔄 **Atividade Recente**
+
+
+
+&nbsp;
+
+&nbsp;
 
 ### 🛠️ Último Projeto Trabalhado
 
-<!-- START_SECTION:last_project -->
+
 
 ### 🛠️ Último Projeto Ativo: [Shega-PT](https://github.com/Shega-PT/Shega-PT)
-* **Linguagem:** `N/A` | **Data:** 2026-08-30
-* **Último Commit:** `docs: update last active project section`
+
+- **Linguagem:** `N/A` | **Data:** 2026-08-30
+- **Último Commit:** `docs: update last active project section`
+
 > **Descrição:** Sem descrição definida.
 
-<!-- END_SECTION:last_project -->
 
-<!-- ========================================== -->
-
-<!-- 📊 ESTATÍSTICAS & MÉTRICAS DE ENGENHARIA   -->
-
-<!-- ========================================== -->
-
-### 📊 Estatísticas & Métricas de Engenharia
-
-<div align="center">
-
-  <!-- Linha 1: Visão Geral de Commits & Linguagens Principais -->
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shega-PT&theme=nord" width="49%" alt="Estatísticas Gerais" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shega-PT&theme=nord" width="49%" alt="Linguagens mais Utilizadas" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- Linha 2: Padrão de Produtividade por Horário (Rota Corrigida) -->
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shega-PT&theme=nord&utcOffset=0" width="100%" alt="Padrão de Produtividade por Horário" />
-
-</div>
-
-<br/>
-
-<!-- ========================================== -->
-
-<!-- 🔄 ATIVIDADE DE COMMITS & STREAK           -->
-
-<!-- ========================================== -->
-
-### 🔄 Atividade em Tempo Real & Streak
-
-<div align="center">
-
-  <!-- Gráfico de Atividade de Commits -->
-
-  <a href="https://github.com/Shega-PT">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shega-PT&theme=nord&hide_border=true" alt="Gráfico de Atividade de Commits" width="100%" />
-  </a>
-
-<br/><br/>
-
-  <!-- Sequência de Commits (Streak Vercel) -->
-
-  <a href="https://github.com/Shega-PT">
-    <img src="https://streak-stats.demolab.com/?user=Shega-PT&theme=nord&hide_border=true" alt="GitHub Streak Stats" width="80%" />
-  </a>
-
-</div>
 
 ---
 
-## 🛠️ Stack & Ferramentas
+### 📊 **Estatísticas &amp; Métricas de Engenharia**
 
-### 💻 Linguagens
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-### 🔩 Hardware & Plataformas
+&nbsp;
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+&nbsp;
+
+&nbsp;
+
+  
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+  
+
+
+
+
+&nbsp;
+
+  
+  
+
+
+
+
+&nbsp;
+
+---
+
+## 🛠️ **Stack &amp; Ferramentas**
+
+### 💻 **Linguagens Principais**
+
+*(Usadas em UAV, aviônica e sistemas embarcado)*
+
+C++  
+Rust  
+Python  
+C
+
+---
+
+### 🔩 **Hardware &amp; Plataformas**
+
+*(Focado em UAV e sistemas embarcado)*
+
+STM32  
+ESP32  
+Arduino
 
 `AVR` • `ARM Cortex-M` • `Bare-metal` • `FreeRTOS`
 
-### 📡 Protocolos & Tecnologias
+---
 
-![LoRa](https://img.shields.io/badge/LoRa-0072B0?style=for-the-badge\&logo=lora\&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+### 📡 **Protocolos &amp; Tecnologias para UAV/Aviônica**
 
-`CAN` • `SPI` • `I2C` • `UART` • `MAVLink` • `TLV`
+*(Destaque para tecnologias críticas em sistemas aéreos)*
 
-### 🧠 Computação & Dados
+MAVLink  
+CAN  
+LoRa  
+MQTT  
+ROS
 
-`OpenCV` • `NumPy` • `PyTorch` • `FAISS` • `SQLite` • `GIS` • `IoT` • `Ollama`
-
-### 🧰 Ferramentas
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+`SPI` • `I2C` • `UART` • `TLV`
 
 ---
 
-## 📈 Métricas de Projetos
+### 🧠 **Computação &amp; Dados**
+
+*(Para processamento de imagem, IA e agricultura de precisão)*
+
+`OpenCV` • `NumPy` • `PyTorch` • `FAISS` • `SQLite` • `GIS` • `IoT` • `Ollama`
+
+---
+
+### 🧰 **Ferramentas de Desenvolvimento**
+
+Linux  
+CMake  
+Git  
+Docker
+
+---
+
+## 📈 **Métricas de Projetos &amp; Telemetria**
+
+
+
+### 📊 **Visão Geral dos Repositórios Públicos**
+
+*(Dados em tempo real via GitHub API)*
+
+
+| **Projeto**                                                | **Linguagem Principal** | **Linhas de Código** | **Último Commit** | **Licença** |
+| ---------------------------------------------------------- | ----------------------- | -------------------- | ----------------- | ----------- |
+| [AERUS](https://github.com/Shega-PT/AERUS)                 | C++                     | LOC                  | Último Commit     | Licença     |
+| [PilotOne](https://github.com/Shega-PT/PilotOne)           | C                       | LOC                  | Último Commit     | Licença     |
+| [Bythos](https://github.com/Shega-PT/Bythos)               | Rust                    | LOC                  | Último Commit     | Licença     |
+| [TELLUS](https://github.com/Shega-PT/TELLUS)               | Python                  | LOC                  | Último Commit     | Licença     |
+| [AstroFrame-Py](https://github.com/Shega-PT/AstroFrame-Py) | Python                  | LOC                  | Último Commit     | Licença     |
+
+
+
+
+---
+
+### **📌 Core Stack &amp; Ambiente**
 
 ```text
 +-----------------------------------------------------------------------+
-| PROJETOS & TELEMETRIA                                                 |
+| PROJETOS & TELEMETRIA (Atualizado em tempo real)                     |
 +-----------------------------------------------------------------------+
 | Core Stack       : C++ (17/20), Rust (Embedded), Python 3.x           |
 | Hardware Targets : STM32, ESP32, AVR, ARM Cortex-M                    |
-| Protocolos       : CAN, SPI, I2C, UART, LoRa, MAVLink, TLV            |
+| Protocolos       : CAN, SPI, I2C, UART, LoRa, MAVLink                 |
 | OS / Ambiente    : Linux, Bare-metal, FreeRTOS, CMake                 |
 +-----------------------------------------------------------------------+
-| AstroFrame-Py    : Calibração & stacking de fotogramas astronómicos   |
-| AERUS / TELLUS   : Telemetria distribuída & dados geoespaciais        |
+| AERUS            : Controlo de voo distribuído para UAS de asa fixa  |
 | PilotOne         : Interface de controlo e assistência ao piloto UAS  |
-| BeaconFly UAS    : Controlo de voo 100Hz, Failsafe 5 níveis           |
-| AgriCerebro      : Fusão sensorial, LLM local para agricultura        |
+| Bythos           : Protocolo TLV para UAV/embedded e redes CAN       |
+| TELLUS           : Dados geoespaciais e sensoriamento de solo         |
+| AstroFrame-Py    : Processamento de imagem para astrofotografia       |
 +-----------------------------------------------------------------------+
 ```
 
 ---
 
-## 📚 Referências Técnicas
+## 🗺️ **Roadmap dos Projetos**
+
+
+| **Projeto**                                                    | **Prioridade** | **Objetivo Imediato**                  | **Progresso** | **Status**               |
+| -------------------------------------------------------------- | -------------- | -------------------------------------- | ------------- | ------------------------ |
+| [**AERUS**](https://github.com/Shega-PT/AERUS)                 | ⭐⭐⭐⭐⭐          | Finalizar documentação e testes de voo | 80%           | Em Desenvolvimento       |
+| [**PilotOne**](https://github.com/Shega-PT/PilotOne)           | ⭐⭐⭐⭐           | Implementar módulos de telemetria      | 60%           | Fase Inicial             |
+| [**Bythos**](https://github.com/Shega-PT/Bythos)               | ⭐⭐⭐⭐⭐          | Integração com AERUS e PilotOne        | 50%           | Em Desenvolvimento       |
+| [**TELLUS**](https://github.com/Shega-PT/TELLUS)               | ⭐⭐⭐            | Validação de arquitetura               | 30%           | Ideia                    |
+| [**AstroFrame-Py**](https://github.com/Shega-PT/AstroFrame-Py) | ⭐⭐             | Versão v1.0 estável                    | 90%           | Desenvolvimento Avançado |
+| **AgriCerebro v0.2**                                           | ⭐              | Retomar desenvolvimento                | 10%           | Pausa Indefinida         |
+
+
+---
+
+## 📚 **Referências Técnicas**
 
 > Uma seleção de livros, documentos técnicos e guias de campo relevantes para o percurso de aprendizagem e para as áreas técnicas relacionadas com os projetos desenvolvidos.
 
-### 💻 Python & Programação
+### 💻 **Python &amp; Programação**
 
-#### 🧩 Fundamentos & Pensamento Computacional
+#### 🧩 **Fundamentos &amp; Pensamento Computacional**
 
-* **Downey, Allen B.** — *Pense em Python — Pense como um Cientista da Computação*
-* **Matthes, Eric** — *Python Crash Course — A Hands-On, Project-Based Introduction to Programming*, 2ª edição
+- **Downey, Allen B.** — *Pense em Python — Pense como um Cientista da Computação*
+- **Matthes, Eric** — *Python Crash Course — A Hands-On, Project-Based Introduction to Programming*, 2ª edição
 
-#### ⚙️ Programação Aplicada & Automação
+#### ⚙️ **Programação Aplicada &amp; Automação**
 
-* **Sweigart, Al** — *Automate the Boring Stuff with Python — Practical Programming for Total Beginners*
-* **Severance, Charles R.** — *Python para Todos — Explorando Dados com Python 3*
+- **Sweigart, Al** — *Automate the Boring Stuff with Python — Practical Programming for Total Beginners*
+- **Severance, Charles R.** — *Python para Todos — Explorando Dados com Python 3*
 
-#### 🐍 Python Avançado
+#### 🐍 **Python Avançado**
 
-* **Ramalho, Luciano** — *Fluent Python — Clear, Concise, and Effective Programming*, 2ª edição
-
----
-
-### ✈️ Aerodinâmica & Engenharia Aeronáutica
-
-* **Houghton, E. L. & Carpenter, P. W.** — *Aerodynamics for Engineering Students*, 5ª edição
-* **Schmitz, F. W.** — *AERODYNAMICS OF THE MODEL AIRPLANE. PART I. AIRFOIL MEASUREMENTS*
+- **Ramalho, Luciano** — *Fluent Python — Clear, Concise, and Effective Programming*, 2ª edição
 
 ---
 
-### 🚀 Propulsão & Engenharia Espacial
+### ✈️ **Aerodinâmica &amp; Engenharia Aeronáutica**
 
-* *Les propulseurs des clubs scientifiques spatiaux* Versão **1.7** — Março de 2020
-
----
-
-### 🧠 Neurociência & Cognição
-
-* **Kandel, E. et al.** — *Princípios de Neurociências*, 5ª edição. McGraw-Hill.
+- **Houghton, E. L. &amp; Carpenter, P. W.** — *Aerodynamics for Engineering Students*, 5ª edição
+- **Schmitz, F. W.** — *AERODYNAMICS OF THE MODEL AIRPLANE. PART I. AIRFOIL MEASUREMENTS*
 
 ---
 
-### 🌿 Guias de Campo — Botânica & Micologia
+### 🚀 **Propulsão &amp; Engenharia Espacial**
 
-* **Felix, J., Toman, J. & Hisek, K.** — *Guide du promeneur dans la Nature*
-* **Maquet, L.** — *À la montagne*
-* **Guéry, J-L.** — *Trésors cachés du littoral*
-* **Nathan, F.** — *Un guide Nathan/Nature Champignons*
-* **Bory, G. & Philippon, H.** — *Guide des Champignons*
-* **Lamaison, J-L.** — *Le livre des Champignons*
+- *Les propulseurs des clubs scientifiques spatiaux* — Versão **1.7** (Março de 2020)
 
 ---
 
-## 🗺️ Roadmap dos Projetos
+### 🧠 **Neurociência &amp; Cognição**
 
-| Projeto              | Objetivo Imediato / Fase Atual                   | Status                                                                                                                      |
-| :------------------- | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| **AstroFrame-Py**    | Desenvolvimento avançado da versão v1.0          | ![Desenvolvimento Avançado](https://img.shields.io/badge/Status-Dev%20Avan%C3%A7ado-blue?style=flat-square)                 |
-| **AERUS**            | Elaboração da documentação técnica e arquitetura | ![Documentação](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o-yellow?style=flat-square)                        |
-| **TELLUS**           | Validação do conceito e definição de arquitetura | ![Ideia](https://img.shields.io/badge/Status-Ideia-lightgrey?style=flat-square)                                             |
-| **PilotOne**         | Implementação dos módulos base e telemetria      | ![Fase Inicial](https://img.shields.io/badge/Status-Fase%20Inicial-orange?style=flat-square)                                |
-| **BeaconFly UAS**    | Código concluído; testes de integração pendentes | ![Finalizado (Não Pronto)](https://img.shields.io/badge/Status-Finalizado%20\(Não%20Pronto\)-brightgreen?style=flat-square) |
-| **AgriCerebro v0.2** | Desenvolvimento suspenso em espera indefinida    | ![Pausa Indefinida](https://img.shields.io/badge/Status-Pausa%20Indefinida-red?style=flat-square)                           |
+- **Kandel, E. et al.** — *Princípios de Neurociências*, 5ª edição (McGraw-Hill).
 
 ---
 
-## 📫 Contacto
+### 🌿 **Guias de Campo — Botânica &amp; Micologia**
 
-Para questões ou colaborações específicas, utilize as issues dos repositórios públicos ou entre em contacto diretamente:
+- **Felix, J., Toman, J. &amp; Hisek, K.** — *Guide du promeneur dans la Nature*
+- **Maquet, L.** — *À la montagne*
+- **Guéry, J-L.** — *Trésors cachés du littoral*
+- **Nathan, F.** — *Un guide Nathan/Nature Champignons*
+- **Bory, G. &amp; Philippon, H.** — *Guide des Champignons*
+- **Lamaison, J-L.** — *Le livre des Champignons*
+
+---
+
+## 📫 **Contacto**
+
+Para questões ou colaborações específicas, utilize as *issues* dos repositórios públicos ou entre em contacto diretamente:
 
 **📧 E-mail:** [shegapt@gmail.com](mailto:shega.pt@gmail.com)
 
 ---
 
-<div align="center">
+
 
 `Built with curiosity • Engineered with purpose • Driven by experimentation`
-
-</div>
