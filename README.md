@@ -164,3 +164,72 @@
  | BeaconFly UAS    : Controlo de voo 100Hz, Failsafe 5 níveis           |
  | AgriCerebro      : Fusão sensorial, LLM local para agricultura        |
 +-----------------------------------------------------------------------+
+```
+
+---
+## 🗺️ Roadmap dos Projetos
+
+| Projeto | Objetivo Imediato / Fase Atual | Status |
+| --- | --- | --- |
+| **AstroFrame-Py** | Desenvolvimento avançado da versão v1.0 | ![Desenvolvimento Avançado](https://img.shields.io/badge/Status-Dev%20Avan%C3%A7ado-blue?style=flat-square) |
+| **AERUS** | Elaboração da documentação técnica e arquitetura | ![Documentação](https://img.shields.io/badge/Status-Documenta%C3%A7%C3%A3o-yellow?style=flat-square) |
+| **TELLUS** | Validação do conceito e definição de arquitetura | ![Ideia](https://img.shields.io/badge/Status-Ideia-lightgrey?style=flat-square) |
+| **PilotOne** | Implementação dos módulos base e telemetria | ![Fase Inicial](https://img.shields.io/badge/Status-Fase%20Inicial-orange?style=flat-square) |
+| **BeaconFly UAS** | Código concluído; testes de integração pendentes | ![Finalizado (Não Pronto)](https://img.shields.io/badge/Status-Finalizado%20(N%C3%A3o%20Pronto%29-brightgreen?style=flat-square) |
+| **AgriCerebro v0.2** | Desenvolvimento suspenso em espera indefinida | ![Pausa Indefinida](https://img.shields.io/badge/Status-Pausa%20Indefinida-red?style=flat-square) |
+
+---
+## 📚 Referências Técnicas
+
+>Uma seleção de livros, documentos técnicos e guias de campo relevantes para o percurso de aprendizagem e para as áreas técnicas relacionadas com os projetos desenvolvidos.
+
+### 💻 Python & Programação
+
+🧩 Fundamentos & Pensamento Computacional
+
+- Downey, Allen B. — Pense em Python — Pense como um Cientista da Computação
+- Matthes, Eric — Python Crash Course — A Hands-On, Project-Based Introduction to Programming, 2ª edição
+
+⚙️ Programação Aplicada & Automação
+
+- Sweigart, Al — Automate the Boring Stuff with Python — Practical Programming for Total Beginners
+- Severance, Charles R. — Python para Todos — Explorando Dados com Python 3
+
+🐍 Python Avançado
+
+- Ramalho, Luciano — Fluent Python — Clear, Concise, and Effective Programming, 2ª edição
+
+✈️ Aerodinâmica & Engenharia Aeronáutica
+
+- Houghton, E. L. & Carpenter, P. W. — Aerodynamics for Engineering Students, 5ª edição
+- Schmitz, F. W. — AERODYNAMICS OF THE MODEL AIRPLANE. PART I. AIRFOIL MEASUREMENTS
+
+🚀 Propulsão & Engenharia Espacial
+
+- Les propulseurs des clubs scientifiques spatiaux — Versão 1.7 (Março de 2020)
+
+🧠 Neurociência & Cognição
+
+- Kandel, E. et al. — Princípios de Neurociências, 5ª edição (McGraw-Hill).
+
+🌿 Guias de Campo — Botânica & Micologia
+
+- Felix, J., Toman, J. & Hisek, K. — Guide du promeneur dans la Nature
+- Maquet, L. — À la montagne
+- Guéry, J-L. — Trésors cachés du littoral
+- Nathan, F. — Un guide Nathan/Nature Champignons
+- Bory, G. & Philippon, H. — Guide des Champignons
+- Lamaison, J-L. — Le livre des Champignons
+
+---
+## 📫 Contacto
+
+Para questões ou colaborações específicas, utilize as issues dos repositórios públicos ou entre em contacto diretamente:
+
+📧 **E-mail:** shegapt@gmail.com
+
+<div align="center">
+   
+Built with curiosity • Engineered with purpose • Driven by experimentation
+
+</div>
