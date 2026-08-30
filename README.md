@@ -52,9 +52,9 @@
 
 <!-- START_SECTION:last_project -->
 
-### 🛠️ Último Projeto Ativo: [Shega-PT](https://github.com/Shega-PT/Shega-PT)
+### 🚀 [Shega-PT](https://github.com/Shega-PT/Shega-PT)
 * **Linguagem:** `N/A` | **Data:** 2026-08-30
-* **Último Commit:** `docs: update last active project section`
+* **Último Commit:** `generated 3d profile calendar`
 > **Descrição:** Sem descrição definida.
 
 <!-- END_SECTION:last_project -->
