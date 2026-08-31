@@ -41,23 +41,6 @@
 
 <!-- ========================================== -->
 
-<!-- 🛠️ ÚLTIMO PROJETO TRABALHADO               -->
-
-<!-- ========================================== -->
-
-### 🛠️ Último Projeto Trabalhado
-
-<!-- START_SECTION:last_project -->
-
-### 🛠️ Último Projeto Ativo: [Shega-PT](https://github.com/Shega-PT/Shega-PT)
-* **Linguagem:** `N/A` | **Data:** 2026-08-30
-* **Último Commit:** `docs: update last active project section`
-> **Descrição:** Sem descrição definida.
-
-<!-- END_SECTION:last_project -->
-
-<!-- ========================================== -->
-
 <!-- 📊 ESTATÍSTICAS & MÉTRICAS DE ENGENHARIA   -->
 
 <!-- ========================================== -->
